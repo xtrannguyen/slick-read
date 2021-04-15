@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/xtrannguyen/slick-read/issues"
   },
-  "homepage": "https://github.com/xtrannguyen/slick-read#readme"
+  "homepage": "https://github.com/xtrannguyen/slick-read#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
 }
