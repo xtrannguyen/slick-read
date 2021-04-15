@@ -1,0 +1,19 @@
+{
+  "name": "slick-read",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xtrannguyen/slick-read.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xtrannguyen/slick-read/issues"
+  },
+  "homepage": "https://github.com/xtrannguyen/slick-read#readme"
+}
